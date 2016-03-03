@@ -1,0 +1,10 @@
+---
+layout: default
+img: character.png
+category: Features
+title: Choose a Class!
+description: |
+---
+  Choose from one of many character classes. 
+  You can become any class at any time - all of them are tracked separately! 
+  Unlock more classes by attaining higher levels of Fighter, Mage and Thief.

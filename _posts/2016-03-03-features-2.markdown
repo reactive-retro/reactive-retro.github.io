@@ -1,0 +1,10 @@
+---
+layout: default
+img: skills.png
+category: Features
+title: Set Your Loadout!
+description: |
+---
+  Select up to 6 skills to adventure with! 
+  You can learn skills from other classes after becoming experienced with them.
+  Stack a skill multiple times for devastating effects!

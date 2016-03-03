@@ -1,0 +1,10 @@
+---
+layout: default
+img: inventory.png
+category: Features
+title: Get Gear!
+description: |
+---
+  Find new gear, and pick the stats that work best with your build! 
+  Gear comes in all shapes and forms, and the only limit is your imagination (and maybe your level).
+  You can find gear by killing monsters and getting lucky!
