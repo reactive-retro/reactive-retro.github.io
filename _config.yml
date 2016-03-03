@@ -26,9 +26,12 @@ social:
   - title: facebook
     name: Facebook
     url: https://facebook.com/ReactiveRetro
+    btnClass: btn-primary
   - title: google-plus
     name: Google+
     url: https://plus.google.com/communities/111450430548057393491
+    btnClass: btn-danger
   - title: github
     name: Github
     url: https://github.com/reactive-retro/retro-app
+    btnClass: btn-default
