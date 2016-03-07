@@ -1,0 +1,10 @@
+---
+layout: default
+img: party.png
+category: Features
+title: Party Up!
+description: |
+---
+  Get together with 4 additional friends!
+  Destroy monsters together!
+  Get a big XP bonus!
