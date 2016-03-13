@@ -1,0 +1,10 @@
+---
+layout: default
+img: shop.png
+category: Features
+title: Buy and Find Items!
+description: |
+---
+  Look for special places on the map! 
+  They can be treasure chests, dungeons, or item shops!
+  Find the item of your dreams!
